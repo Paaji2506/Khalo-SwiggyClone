@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqE4lXR8XdI74HKJ9MIFUXBm39EZObJeyia0fLVwBYiNICwSS6sAzFBoxLovhfN+uP4+1fIxnF8uRaxkQUMNjQ==",
+  "success": false,
+  "projectFilePath": "C:\\Eclipse_Work\\Khalo-SwiggyClone\\Backend\\UserServicemanagement\\UserServicemanagement.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'UserServicemanagement': Invalid framework identifier ''."
+    }
+  ]
+}
